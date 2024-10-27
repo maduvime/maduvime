@@ -13,7 +13,7 @@
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "GIT"/></code>
 <code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/></code>
-<code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/capcut-svgrepo-com%20(1).svg" title = "CAPCUT"/></code>
+<code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/capcut-svgrepo-com%20(2).svg" title = "CAPCUT"/></code>
 
 <!-- Libraries -->
 <h1 align="left">📚 Libraries</h1>
