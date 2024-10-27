@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/ed/01/22/ed012259c25cd0a787064216db37c22d.gif" alt="Imagem">
 </p>
 
-I'm Maria Eduarda Mendes, chemical engineering student at UFRJ, computer enthusiast and passionate about art and technology. 
+I'm Maria Eduarda Mendes, chemical engineering student at UFRJ, computing enthusiast and passionate about art and technology. 
 
 <!-- Languages and tools -->
 <h2 align="left">🛠️ Languages & Tools</h2>
