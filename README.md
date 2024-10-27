@@ -6,6 +6,8 @@
   <img src="https://i.pinimg.com/originals/ed/01/22/ed012259c25cd0a787064216db37c22d.gif" alt="Imagem">
 </p>
 
+Maria Eduarda Mendes, chemical engineering student at UFRJ and passionate about computing and technology. 
+
 <!-- Languages and tools -->
 <h2 align="left">🛠️ Languages & Tools</h2>
 <div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
