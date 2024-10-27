@@ -27,3 +27,5 @@
 <!-- GitHub stats -->
 <h2 align="left">📈 GitHub stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=maduvime&show_icons=true&theme=dark"/>
+
+![Snake animation](https://github.com/maduvime/maduvime/blob/output/github-contribution-grid-snake.svg)
