@@ -11,7 +11,7 @@
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "GIT"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/></code>
 <code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/></code>
 <code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/9875906_capcut_video_editor_logo_icon%20(1).png" title = "CAPCUT"/></code>
 
