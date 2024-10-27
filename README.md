@@ -6,8 +6,6 @@
   <img src="https://i.pinimg.com/originals/ed/01/22/ed012259c25cd0a787064216db37c22d.gif" alt="Imagem">
 </p>
 
-I'm Maria Eduarda Mendes, chemical engineering student at UFRJ, computing enthusiast and passionate about art and technology. 
-
 <!-- Languages and tools -->
 <h2 align="left">🛠️ Languages & Tools</h2>
 <div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
@@ -28,7 +26,7 @@ I'm Maria Eduarda Mendes, chemical engineering student at UFRJ, computing enthus
 
 <!-- GitHub stats -->
 <div align="center"><h2 align="left">📈 GitHub Stats</h2>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=maduvime&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniblodev&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=maduvime&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --></div>
 
 <!-- Snake animation -->
 <div align="center"><picture>
