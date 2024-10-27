@@ -7,21 +7,23 @@
 </p>
 
 <!-- Languages and tools -->
-<h1 align="left">🛠️ Languages and tools</h1>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "GIT"/></code>
-<code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/></code>
-<code><img width="50px" src="https://github.com/maduvime/maduvime/blob/main/capcut-svgrepo-com%20(2).svg" title = "CAPCUT"/></code>
+<h2 align="left">🛠️ Languages & Tools</h2>
+<div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "GIT"/>
+<img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/>
+<img width="50px" src="https://github.com/maduvime/maduvime/blob/main/capcut-svgrepo-com%20(2).svg" title = "CAPCUT"/>
+</div>
 
 <!-- Libraries -->
-<h1 align="left">📚 Libraries</h1>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "NUMPY"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title = "MATPLOTBLIB"/></code>
-<code><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title = "PANDAS"/></code>
-<code><img width="50px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title = "SEABORN"/></code>
+<h2 align="left">📚 Libraries</h2>
+<div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "NUMPY"/> 
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title = "MATPLOTBLIB"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title = "PANDAS"/>
+<img width="55px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title = "SEABORN"/>
+</div>
 
 <!-- GitHub stats -->
-<h1 align="left">📈 GitHub stats</h1>
+<h2 align="left">📈 GitHub stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=maduvime&show_icons=true&theme=dark"/>
