@@ -19,8 +19,8 @@
 <!-- Libraries -->
 <h2 align="left">📚 Libraries</h2>
 <div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title = "NUMPY"/> 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title = "MATPLOTBLIB"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title = "PANDAS"/>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title = "MATPLOTBLIB"/>
 <img width="55px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title = "SEABORN"/>
 </div>
 
