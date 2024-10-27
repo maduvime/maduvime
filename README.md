@@ -1,4 +1,5 @@
-## Hello, Devs!!
+<!-- TITLE -->
+<h1 align="center">Hello Devs!</h1>
 
 <!-- GIF -->
 <p align="center">
