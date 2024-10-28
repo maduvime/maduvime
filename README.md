@@ -43,4 +43,5 @@
 <!-- GitHub Activity Graph -->
 <h2 align="left">📈 GitHub Activity Graph</h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maduvime&theme=dark&custom_title=Madu's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maduvime&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
