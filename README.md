@@ -46,3 +46,7 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maduvime&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- GIF -->
+<p align="center">
+  <img height="100px" src="https://i.giphy.com/QXwtfadqo7wbfmT46H.webp" alt="Imagem">
+</p>
