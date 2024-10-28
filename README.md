@@ -10,6 +10,7 @@
 <h2 align="left">🛠️ Languages & Tools</h2>
 <div><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title = "HTML5"/>
+<img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VS CODE"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title = "GIT"/>
 <img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/>
