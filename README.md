@@ -15,6 +15,7 @@
 <img width="50px" src="https://github.com/maduvime/maduvime/blob/main/4202098_github_code_developer_logo_icon.svg" title = "GITHUB"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title = "CANVA"/>
 <img width="50px" src="https://github.com/maduvime/maduvime/blob/main/capcut-svgrepo-com%20(2).svg" title = "CAPCUT"/>
+<img width="50px" src="https://github.com/maduvime/maduvime/blob/main/icons8-microsoft-excel-2019%20(1).svg" title = "EXCEL"/>
 </div>
 
 <!-- Libraries -->
