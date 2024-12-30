@@ -24,6 +24,7 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title = "PANDAS"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title = "MATPLOTLIB"/>
 <img width="57px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title = "SEABORN"/>
+<img width="50px" src="https://github.com/maduvime/maduvime/blob/main/SCIPY_2.svg" title = "SCIPY"/>
 </div>
 
 <!-- GitHub stats -->
